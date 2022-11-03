@@ -1,3 +1,23 @@
 @import "styles/julien-perso.css";
 @import "styles/Camilla-perso.css";
 @import "styles/Camille-perso";
+
+.boutons{
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    gap: 10 px;
+}
+.titre{
+
+    color: #8D0101;
+    font-style:96px;
+    font-family: 'Lacquer', cursive;
+}
+.nave barre{
+
+    display: flex;
+    justify-content: space-around;
+    gap: 60 px;
+}
