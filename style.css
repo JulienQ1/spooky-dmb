@@ -7,7 +7,7 @@
     display: flex;
     list-style: none;
     justify-content: space-around;
-    gap: 10 px;
+    gap: 90px;
 }
 .titre{
 
@@ -15,9 +15,8 @@
     font-style:96px;
     font-family: 'Lacquer', cursive;
 }
-.nave barre{
+.nave-barre{
 
     display: flex;
-    justify-content: space-around;
-    gap: 60 px;
+    justify-content: space-between;
 }
