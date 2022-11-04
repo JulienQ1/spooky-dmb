@@ -1,0 +1,65 @@
+
+
+
+.boutons{
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    gap: 90px;
+    color: #CCCBCB;
+    margin-right: 60px;
+}
+.titre{
+
+    color: #8D0101;
+    font-style:96px;
+    font-family: 'Lacquer', cursive;
+}
+.nave-barre{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.texte p {
+
+    color: #CCCBCB;
+}
+.body{
+
+    display: flex;
+    gap: 20px;
+
+}
+body{
+
+    background: linear-gradient(#0C0C0B,#458592,#990606 );
+
+}
+
+.image {
+
+    order: -1;
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    margin-left: 85px;
+}
+
+.histoire{
+
+    font-family: 'Kristi', cursive;
+
+}
+
+.film{
+
+    display: flex;
+    position:relative;
+    
+}
+.film img{
+
+    z-index:-50;
+}
