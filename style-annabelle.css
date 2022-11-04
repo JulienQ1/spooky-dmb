@@ -37,7 +37,11 @@ body{
     background: linear-gradient(#0C0C0B,#458592,#990606 );
 
 }
+.annabelle{
 
+    size: 360px 1110px;
+
+}
 .image {
 
     order: -1;
@@ -59,7 +63,8 @@ body{
     position:relative;
     
 }
-.film img{
+.film2{
 
-    z-index:-50;
+    z-index: index -100;
+    font-size: 411px;
 }
