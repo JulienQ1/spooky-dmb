@@ -1,3 +1,30 @@
 @import "styles/julien-perso.css";
 @import "styles/Camilla-perso.css";
-@import "styles/Camille-perso";
+@import "styles/Camille-perso"; 
+
+.nom{
+    display: flex;
+    background-image: url(salut.gif);
+    background-size: cover;
+    height: 400vh;
+  
+}
+.image1{  
+   padding-left: 65%;
+   width:80%;
+   padding-top: 1%;
+
+   
+
+}
+.kai{ 
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+    
+  
+}
+body{
+    background-image:
+    
+}
