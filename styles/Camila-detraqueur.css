@@ -99,6 +99,24 @@ h1{
 .incarnation img{
     padding: 60px;
 }
+.citation{
+    background: #121313;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    text-align: center;
+}
+.citation h2{
+    font-family: 'Island Moments'; 
+    font-size: 32px;
+    color:#bebebee7;
+}
+
+.citation img{
+    width: 688px;
+    height: 387px;
+    padding-top: 50px;
+}
+
 .physique{
     background-image: -moz-linear-gradient(#121313, #060808);
     display: flex;
