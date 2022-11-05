@@ -2,11 +2,16 @@
 @import "styles/Camilla-perso.css";
 @import "styles/Camille-perso"; 
 
+.bodyy{
+    background-image: url(noir.jpg);
+}
+
+
 .nom{
     display: flex;
-    background-image: url(salut.gif);
+    background-image: url(medusa.jpg);
     background-size: cover;
-    height: 400vh;
+    height: 100vh;
   
 }
 .image1{  
@@ -18,13 +23,210 @@
 
 }
 .kai{ 
-    color: grey;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:grey;
+    font-family: 'Kolker Brush', cursive;
+    padding-right: 40%;
+    padding-top: 20%;
+    font-size: 400%;
  
     
   
 }
 body{
-    background-image:
     
+    
+}
+.film{
+    display: flex;
+    gap:70px; 
+   
+}
+.blanche{
+    padding-top: 10%;
+    width: 50%;
+    padding-left: 40%;
+}
+.dame{
+    padding-top:0%;
+    border: 2px solid ;
+    height: fit-content;
+    width: 160%;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top:3%;
+    padding-bottom:3%;
+   
+    
+}
+.ecriture{
+    padding-top: 20%;
+    width: fit-content;
+    padding-left:3%;
+    width:45%;
+
+
+}
+
+.joanc{
+    display: flex;
+    gap:70px; 
+}
+.joan{
+    padding-top: 10%;
+    width: 80%;
+    padding-left:15%;
+   
+
+
+}
+.joann{ 
+    padding-top: 20%;
+    width: fit-content;
+    padding-right: 30%;
+    width: 40%;
+}
+.text{ 
+    padding-top:0%;
+    border: 2px solid ;
+    border-width:100%;
+    height: fit-content;
+    width: 180%;
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: large;
+   padding-top:3%;
+   padding-bottom:3%;
+} 
+.sorciere{
+    display: flex;
+    gap:70px; 
+}
+.src{
+    padding-top: 10%;
+    width: 80%;
+    padding-left:5%;
+    
+}
+.sorc{ 
+    padding-top: 20%;
+    width: fit-content;
+    padding-right: 30%;
+   
+}
+.text1{ 
+    padding-top:0%;
+    border: 2px solid ;
+    border-width:100%;
+    height: fit-content;
+    width: 170%;
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: large;
+   padding-top:3%;
+   padding-bottom:3%;
+} 
+
+
+.medusa{ 
+    display: flex;
+    gap:70px; 
+}
+.med{ 
+    padding-top: 20%;
+    width: fit-content;
+    padding-right: 30%;
+
+}
+.uda{
+    height: fit-content;
+    width: 160%;
+    font-family: 'Josefin Sans', sans-serif; 
+    font-size: large;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border: 2px solid ;
+    border-width:100%;
+   
+   
+} 
+
+.src1{
+    padding-top: 10%;
+    width: 70%;
+    padding-right: 30%;
+    padding-left: 15%;
+} 
+.medusa2{ 
+    display: flex;
+    gap:70px; 
+}
+.uda2{
+    padding-top:0%;
+    border: 2px solid ;
+    height: fit-content;
+    width: 160%;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top:3%;
+    padding-bottom:3%;
+   
+    
+}
+.med2{
+    padding-top: 20%;
+    width: fit-content;
+    padding-left:3%;
+    width:45%;
+
+
+}
+
+
+.src2{
+    padding-top: 10%;
+    width: 40%;
+    padding-left: 50%;
+} 
+.pour { 
+ padding-left: 5%;
+    font-size: 160px;
+    padding-top: 10%;
+    font-family:'Kolker Brush', cursive ;
+}
+.prv>div:hover{ 
+   
+      
+   transform: rotate(20deg ) scale(1,2);
+    display:flex; 
+}
+.ptn{
+    
+    padding-top: 10%;
+    width: 5%;
+    padding-left:15%;
+}
+.mir{
+
+    padding-top: 10%;
+    width: 5%;
+    padding-left:15%;
+}
+.txt{ 
+    padding-top:0%;
+   
+    height: fit-content;
+    width: 30%;
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: large;
+   padding-top:3%;
+   padding-bottom:3%;
+   padding-left: 40%;
+
+}
+.txt1{
+
+    height: fit-content;
+    width: 30%;
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: large;
+   padding-top:3%;
+   padding-bottom:3%;
+   padding-left:45%;
+ 
 }
