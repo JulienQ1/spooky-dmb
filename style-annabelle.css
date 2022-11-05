@@ -13,16 +13,30 @@
 .titre{
 
     color: #8D0101;
-    font-style:96px;
     font-family: 'Lacquer', cursive;
+    align-self: center;
+    font-size: 90px;
 }
-.nave-barre{
+.nave-barre-bas{
 
     display: flex;
     justify-content: space-between;
 }
 
-.texte p {
+.nave-barre-haut{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.arbre{
+
+    position: relative;
+    right: -50px;
+   top:-10px;}
+
+
+   .texte p {
 
     color: #CCCBCB;
 }
@@ -34,12 +48,14 @@
 }
 body{
 
-    background: linear-gradient(#0C0C0B,#458592,#990606 );
+    background: linear-gradient(#0C0C0B 20%,#458592,#990606);
 
 }
+
 .annabelle{
 
     size: 360px 1110px;
+
 
 }
 .image {
@@ -51,20 +67,35 @@ body{
     margin-left: 85px;
 }
 
-.histoire{
+.ensemble h1{
 
     font-family: 'Kristi', cursive;
+    color: #8D0101;
+    height: 70px;
 
 }
 
 .film{
-
+    height: 600px;
     display: flex;
     position:relative;
-    
 }
-.film2{
 
-    z-index: index -100;
-    font-size: 411px;
+
+.film1 {
+    position: absolute;
+    margin-left: 15vw;
+    height: 500px;
+}
+
+.film2 {
+    position: absolute;
+    margin-left: 35vw;
+    height: 500px;
+}
+
+.film3 {
+    position: absolute;
+    margin-left: 55vw;
+    height: 500px;
 }
