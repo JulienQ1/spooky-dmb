@@ -226,6 +226,8 @@ h1{
 .Potter{
     background-image:-moz-linear-gradient( #060808, #01101a); 
     text-align: center;
+}
+.Potter article{
     padding-bottom: 200px;
 }
 .Potter div{
@@ -249,4 +251,21 @@ h1{
 .mort{
     width: 347px;
     height: 506px;
+}
+.none{
+    background-image:-moz-linear-gradient(#01101a, #060808); 
+    min-height: 100vh;
+}
+footer{
+    background-image:-moz-linear-gradient(#060808, #000000 ); 
+    background: url('../Images/mouth.gif');
+    background-size: cover;
+    min-height: 150vh;
+    background-repeat: no-repeat;
+    /*text-align: center;
+    padding-top: 300px;*/
+}
+/*.footer img{
+    width: 902px;
+    height: 507px;*/
 }
