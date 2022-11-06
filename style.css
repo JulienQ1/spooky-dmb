@@ -153,3 +153,34 @@ body{
     padding-right: 30%;
     padding-left: 15%;
 } 
+.medusa2{ 
+    display: flex;
+    gap:70px; 
+}
+.uda2{
+    padding-top:0%;
+    border: 2px solid ;
+    height: fit-content;
+    width: 160%;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top:3%;
+    padding-bottom:3%;
+   
+    
+}
+.med2{
+    padding-top: 20%;
+    width: fit-content;
+    padding-left:3%;
+    width:45%;
+
+
+}
+
+
+.src2{
+    padding-top: 10%;
+    width: 40%;
+    padding-left: 50%;
+
+}
