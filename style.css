@@ -14,22 +14,30 @@ body{
     padding-top:50%;
     font-size:small;
 }
+
+
 .nom{
-    background-image: url(Capture\ d’écran\ 2022-11-06\ à\ 7.34.03\ PM.png);
+
     background-size: cover;
     height: 100vh;
     gap:10px;
     display: flex;
     justify-content: space-between;  
-    align-items: center;
-    padding-top:20%;
-    width:60%;
-    height: 180%;
-  
     
-
-  
+    padding-top:5%;
+    width:80%;
+    height: 40%;
+   
+    
 }
+.mg{ 
+    padding-left: 1%;
+    width: 160%;
+    padding-bottom: 5%;
+    align-items: center;
+    padding-top:1%;
+}
+
 
 .ull{
     display:flex; 
@@ -51,15 +59,23 @@ body{
    
 
 }
+.debut{ 
+    padding-left: 5%;
+       font-size: 40px;
+       padding-top: 10%;
+       font-family:'Kolker Brush', cursive ;
+}
 .kai{ 
     color:grey;
     font-family: 'Kolker Brush', cursive;
     padding-right: 0%;
-    padding-top: 0%;
+    padding-top: 60%;
     font-size: 400%;
-    padding-bottom:70%;
-    padding-left:130%;   
+    padding-bottom:20%;
+    
+      
 }
+
 
 .filmm{
     display: flex;
