@@ -223,3 +223,30 @@ h1{
     height: 355px;
     padding-left: 40px;
 }
+.Potter{
+    background-image:-moz-linear-gradient( #060808, #01101a); 
+    text-align: center;
+    padding-bottom: 200px;
+}
+.Potter div{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.prison{
+    width: 347px;
+    height: 506px;
+}
+.phoenix{
+    width: 347px;
+    height: 506px;
+}
+.relique{
+    width: 347px;
+    height: 506px;
+}
+.mort{
+    width: 347px;
+    height: 506px;
+}
