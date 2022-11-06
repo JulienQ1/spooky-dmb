@@ -12,8 +12,8 @@ main{
     min-height: 150vh;
 }
 nav{
-    /*position: fixed;
-    width: 100%;*/
+    position: fixed;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.089);
     padding-top: 40px;
     padding-bottom: 10px;
@@ -135,4 +135,18 @@ h1{
 .physique article{
     padding-right: 200px;
 
+}
+.physique article img{
+    width: 735px;
+    height: 445px;
+    padding-right: 160px;
+}
+.kiss{
+    background: url('../Images/creepy.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}
+.kiss article{
+    padding-top: 250px;
+    padding-right: 1100px;
 }
