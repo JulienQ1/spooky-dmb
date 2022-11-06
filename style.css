@@ -184,3 +184,50 @@ body{
     padding-left: 50%;
 
 }
+.pour { 
+    padding-left: 5%;
+       font-size: 160px;
+       padding-top: 10%;
+       font-family:'Kolker Brush', cursive ;
+   }
+   .prv>div:hover{ 
+      
+         
+      transform: rotate(20deg ) scale(1,2);
+       display:flex; 
+   }
+   .ptn{
+       
+       padding-top: 10%;
+       width: 5%;
+       padding-left:15%;
+   }
+   .mir{
+   
+       padding-top: 10%;
+       width: 5%;
+       padding-left:15%;
+   }
+   .txt{ 
+       padding-top:0%;
+      
+       height: fit-content;
+       width: 30%;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: large;
+      padding-top:3%;
+      padding-bottom:3%;
+      padding-left: 40%;
+   
+   }
+   .txt1{
+   
+       height: fit-content;
+       width: 30%;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: large;
+      padding-top:3%;
+      padding-bottom:3%;
+      padding-left:45%;
+    
+   }
