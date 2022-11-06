@@ -170,5 +170,19 @@ h1{
 }
 .citationkiss img{
   padding-top: 70px;
+}
+.patronus{
+    background: url('../Images/harrypatronus.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}
 
+.patronus article{
+    padding-left: 1000px;
+    padding-right: 200px;
+    padding-top: 300px;
+}
+.patronus article img{
+    padding-left: 300px;
+    padding-top: 60px;
 }
