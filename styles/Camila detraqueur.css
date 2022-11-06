@@ -108,7 +108,7 @@ h1{
 }
 .citation h2{
     font-family: 'Island Moments'; 
-    font-size: 32px;
+    font-size: 40px;
     color:#bebebee7;
 }
 
@@ -147,6 +147,28 @@ h1{
     min-height: 100vh;
 }
 .kiss article{
-    padding-top: 250px;
+    padding-top: 180px;
     padding-right: 1100px;
+}
+.kiss img{
+    padding-left: 270px;
+    padding-top: 80px;
+    width: 691px;
+    height: 281px;
+}
+.citationkiss{
+    background-image:-moz-linear-gradient(#060808, #15323F);
+    padding-top: 200px;
+    padding-bottom: 300px;
+    text-align: center;
+}
+.citationkiss h2{
+    font-family: 'Island Moments'; 
+    font-size: 40px;
+    color:#bebebee7;
+
+}
+.citationkiss img{
+  padding-top: 70px;
+
 }
