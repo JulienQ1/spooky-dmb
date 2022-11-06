@@ -56,7 +56,10 @@ body {
 #title {
     display: flex;
     justify-content: space-between;
-    text-decoration:none
+    text-decoration:none;
+    width: min-content;
+    height:min-content;
+    
 }
 
 #title-1 {
@@ -64,6 +67,7 @@ body {
     text-decoration: none;
     width: 20px;
     min-height: 20px;
+    margin-right: 320px;
 }
 
 #background-img {
@@ -114,14 +118,35 @@ border:solid 2px black; */
 
 }
 
- .ensemble2{
-    display: flex;
-    padding-left: 50px;
-padding-right: 150px;
-padding-top: 50px;
+
+ 
+ .Spike-Chunsoft{
+    background-image: -moz-linear-gradient(#15323F, #060808);
+    display: flex ;
+    align-items: center;
+    gap: 300px;
+    margin-top: 600px;
+    color: #C10257;
+    font-size:  20px;
+    font-style: 100px;
+    border-radius: 45px;
+    
+
+
+
  }
- 
- 
+
+ .Spike-Chunsoft img{
+    width: 700px;
+    height :75px;
+    margin-left:200px;
+    margin-left: 25px;
+    
+    
+
+
+
+ }
 
  
 
