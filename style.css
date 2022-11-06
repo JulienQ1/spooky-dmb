@@ -16,8 +16,9 @@ body{
     justify-content: space-between;  
     align-items: center;
     padding-top:20%;
-    width:100%;
+    width:60%;
     height: 180%;
+  
     
 
   
@@ -45,18 +46,13 @@ body{
 .kai{ 
     color:grey;
     font-family: 'Kolker Brush', cursive;
-    padding-right: 40%;
+    padding-right: 0%;
     padding-top: 0%;
     font-size: 400%;
     padding-bottom:70%;
- 
-    
-  
+    padding-left:130%;   
 }
-body{
-    
-    
-}
+
 .filmm{
     display: flex;
     gap:70px; 
