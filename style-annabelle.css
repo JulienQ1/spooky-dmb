@@ -1,4 +1,9 @@
 
+*{
+
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;}
 
 
 .boutons{
@@ -9,6 +14,8 @@
     gap: 90px;
     color: #CCCBCB;
     margin-right: 60px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
 }
 .titre{
 
@@ -35,17 +42,53 @@
     right: -50px;
    top:-10px;}
 
-
-   .texte p {
-
-    color: #CCCBCB;
-}
-.body{
+.debut{
 
     display: flex;
+    gap: 200px;
+    justify-content: space-around;
+}
+h2{
+
+    justify-content: center;
+    margin-left: 38px;
+    margin-right: 40px;
+    color: #CCCBCB;
+    font-size: 32px;
+    font-family: 'Inconsolata', monospace;
+    margin-top: 20px;
+
+}
+.texte p {
+
+    color: #CCCBCB;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.texte{
+
     gap: 20px;
 
 }
+.barre{
+
+    background: color #458592;
+    border-style: #458592;
+
+
+}
+
+.spooky{
+
+    position: relative;
+    right: -40px;
+    bottom:10px;
+    height: 100px;
+
+
+}
+
+
 body{
 
     background: linear-gradient(#0C0C0B 20%,#458592,#990606);
@@ -54,7 +97,8 @@ body{
 
 .annabelle{
 
-    size: 360px 1110px;
+    size: 342px 1110px;
+    margin-left: 40px;
 
 
 }
@@ -67,11 +111,15 @@ body{
     margin-left: 85px;
 }
 
-.ensemble h1{
+.histoire{
 
     font-family: 'Kristi', cursive;
     color: #8D0101;
-    height: 70px;
+    font-size: 128px;
+    position: relative;
+    right: -850px;
+    margin-top: 50px;
+
 
 }
 
