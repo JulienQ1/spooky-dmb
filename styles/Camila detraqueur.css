@@ -186,3 +186,22 @@ h1{
     padding-left: 300px;
     padding-top: 60px;
 }
+.azkaban{
+    background-image:-moz-linear-gradient(#15323F, #060808); 
+}
+.azkaban h1{
+    padding-right: 800px;
+    padding-top: 200px;
+}
+.azkaban article{
+    display: flex;
+    padding-bottom: 300px;
+    align-items: center;
+}
+.azkaban article img{
+    width: 672px;
+    height: 355px;
+    padding-left: 40px;
+
+
+}
