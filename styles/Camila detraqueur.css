@@ -166,7 +166,6 @@ h1{
     font-family: 'Island Moments'; 
     font-size: 40px;
     color:#bebebee7;
-
 }
 .citationkiss img{
   padding-top: 70px;
@@ -186,8 +185,29 @@ h1{
     padding-left: 300px;
     padding-top: 60px;
 }
+.citationpatronus{
+    background-image:-moz-linear-gradient(#15323F, #2C2725);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+.citationpatronus h2{
+    font-family: 'Island Moments'; 
+    font-size: 40px;
+    color:#bebebee7;
+}
+#nom{ 
+    padding-top: 20px;
+    font-size: 28px;
+}
+
+.citationpatronus img{
+    width: 660px;
+    height: 371px;
+    padding-top: 40px;
+}
 .azkaban{
-    background-image:-moz-linear-gradient(#15323F, #060808); 
+    background-image:-moz-linear-gradient(#2C2725, #060808); 
 }
 .azkaban h1{
     padding-right: 800px;
@@ -202,6 +222,4 @@ h1{
     width: 672px;
     height: 355px;
     padding-left: 40px;
-
-
 }
