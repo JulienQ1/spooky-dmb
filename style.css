@@ -266,3 +266,14 @@ body{
     width: 40%;
     padding-left:30%;
 } 
+.fin{ 
+    padding-left: 5%;
+       font-size: 140px;
+       padding-top: 10%;
+       font-family:'Kolker Brush', cursive ;
+   }
+   .fin1{ 
+    padding-left:80%;
+    font-size:20PX;
+    padding-top: 25%;
+}
