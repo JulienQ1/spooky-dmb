@@ -59,6 +59,10 @@ h2{
     margin-top: 20px;
 
 }
+p{
+
+    font-family: 'Inconsolata', monospace;
+}
 .texte p {
 
     color: #CCCBCB;
@@ -99,6 +103,12 @@ body{
 
     size: 342px 1110px;
     margin-left: 40px;
+
+
+}
+.fin{
+
+    display: flex;
 
 
 }
