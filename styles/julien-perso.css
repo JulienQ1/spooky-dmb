@@ -148,8 +148,47 @@ border:solid 2px black; */
 
  }
 
+ .Apparence {
+    display: flex ;
+    gap: 300px;
+    margin-top: 600px;
+    color: #C10257;
+    font-size:  20px;
+    font-style: 100px;
+    border-radius: 45px;
+    
+ }
+ .Apparencetx{
+    margin-top: 800px;
+    text-align: center;
+    font-size: 100px;
+    color:#C10257
+ }
+.Apparence img {
+    
+}
  
+ 
+ 
+.Personnalité2{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 100px;
+    color: #C10257;
+   
+ }
 
+ .Personnalité{
+    background-image: -moz-linear-gradient(#15323F, #060808);
+    display: flex ;
+    align-items: center;
+    gap: 300px;
+    margin-top: 100px;
+    color: #C10257;
+    font-size:  20px;
+    font-style: 100px;
+    border-radius: 45px;
+ }
  
 
 
