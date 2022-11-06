@@ -5,8 +5,15 @@
 body{
     background-image:linear-gradient(#100F0F, #570606, #9D3737, #570606 ,#100F0F); 
 }
-
-
+.lol{
+    display: flex;
+}
+.sppoky{ 
+    color:#8D0101; 
+    font-family: 'Abel', sans-serif; 
+    padding-top:50%;
+    font-size:small;
+}
 .nom{
     background-image: url(Capture\ d’écran\ 2022-11-06\ à\ 7.34.03\ PM.png);
     background-size: cover;
@@ -32,6 +39,7 @@ body{
     padding-top:3%;
     padding-left: 50%;
     font-family: 'Josefin Sans', sans-serif;
+    color: #8D0101;
    
    
 }
