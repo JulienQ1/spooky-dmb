@@ -35,24 +35,41 @@
     justify-content: space-between;
 
 }
+.musee{
 
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+    margin-bottom: 90px;
+
+}
+.image-warren{
+
+    flex-direction: column;
+
+}
 .arbre{
 
     position: relative;
-    right: -50px;
+    right: -40px;
    top:-10px;}
 
 .debut{
 
     display: flex;
-    gap: 200px;
+    gap: 300px;
     justify-content: space-around;
+    margin-top: 90px;
+}
+.poupee{
+
+    margin-right: 300px;
+
 }
 h2{
 
     justify-content: center;
-    margin-left: 38px;
-    margin-right: 40px;
+    margin-left: 80px;
     color: #CCCBCB;
     font-size: 32px;
     font-family: 'Inconsolata', monospace;
@@ -62,6 +79,10 @@ h2{
 p{
 
     font-family: 'Inconsolata', monospace;
+    text-align:justify;
+    color: #CCCBCB;
+    
+
 }
 .texte p {
 
@@ -109,9 +130,29 @@ body{
 .fin{
 
     display: flex;
+    gap: 200px;
+    justify-content: space-around;
+}
+.milieu {
 
+    display: flex;
+    gap: 250px;
+    justify-content: space-around;
+   margin-top: 80px;
+}
+
+.texte-fin{
+
+
+    margin-top: 170px;
+}
+.musee-warren {
+
+    margin-top: 90px;
+    margin-bottom: 90px;
 
 }
+
 .image {
 
     order: -1;
@@ -123,9 +164,9 @@ body{
 
 .histoire{
 
-    font-family: 'Kristi', cursive;
+    font-family: 'The Nautigal', cursive;
     color: #8D0101;
-    font-size: 128px;
+    font-size: 90px;
     position: relative;
     right: -850px;
     margin-top: 50px;
@@ -133,10 +174,26 @@ body{
 
 }
 
+.titre-musee{
+
+    font-family: 'The Nautigal', cursive;
+    font-size: 90px;
+    color: #8D0101;
+}
+
+.film-titre{
+
+    font-family: 'The Nautigal', cursive;
+    font-size: 90px;
+    color: #8D0101;
+
+}
 .film{
     height: 600px;
     display: flex;
     position:relative;
+    margin-top: 90px;
+    margin-bottom: 70px;
 }
 
 
@@ -156,4 +213,18 @@ body{
     position: absolute;
     margin-left: 55vw;
     height: 500px;
+}
+
+.arbre-bas{
+
+    position: relative;
+    left: 1000px;
+    height: 500px;
+}
+
+.film-texte{
+
+    justify-content: space-around;
+    margin-left: 200px;
+
 }
