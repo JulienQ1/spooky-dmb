@@ -1,0 +1,238 @@
+
+*{
+
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;}
+
+.boutons{
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    gap: 90px;
+    color: #CCCBCB;
+    margin-right: 70px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+}
+.titre{
+
+    color: #8D0101;
+    font-family: 'Lacquer', cursive;
+    align-self: center;
+    font-size: 90px;
+}
+.nave-barre-bas{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.nave-barre-haut{
+    display: flex;
+    justify-content: space-between;
+
+}
+.musee{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-left: 70px;
+    gap:200px;
+    margin-right: 70px;
+    border: solid;
+    border-color: #0C0C0B;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 20px;
+    align-items: center;
+}
+.image-warren{
+
+    flex-direction: column;
+
+}
+.arbre{
+
+    position: relative;
+    right: -40px;
+   top:-10px;}
+
+.debut{
+
+    display: flex;
+    gap: 300px;
+    justify-content: space-around;
+    margin-top: 90px;
+}
+.poupee{
+
+    margin-right: 300px;
+
+}
+h2{
+
+    justify-content: center;
+    margin-left: 80px;
+    color: #CCCBCB;
+    font-size: 32px;
+    font-family: 'Inconsolata', monospace;
+    margin-top: 20px;
+
+}
+p{
+
+    font-family: 'Inconsolata', monospace;
+    text-align:justify;
+    color: #CCCBCB;
+    
+
+}
+.texte p {
+
+    color: #CCCBCB;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.texte{
+
+    gap: 20px;
+
+}
+.barre{
+
+    background: color #458592;
+    border-style: #458592;
+
+}
+
+.spooky{
+
+    position: relative;
+    right: -40px;
+    bottom:10px;
+    height: 100px;
+
+}
+
+body{
+
+    background: linear-gradient(#0C0C0B 20%,#458592,#990606);
+
+}
+
+.annabelle{
+
+    size: 342px 1110px;
+    margin-left: 40px;
+
+}
+.fin{
+
+    display: flex;
+    gap: 200px;
+    justify-content: space-around;
+}
+.milieu {
+
+    display: flex;
+    gap: 250px;
+    justify-content: space-around;
+   margin-top: 80px;
+}
+
+.texte-fin{
+
+    margin-top: 170px;
+}
+.musee-warren {
+
+    margin-top: 90px;
+    margin-bottom: 90px;
+
+}
+
+.image {
+
+    order: -1;
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    margin-left: 85px;
+}
+
+.histoire{
+
+    font-family: 'The Nautigal', cursive;
+    color: #8D0101;
+    font-size: 90px;
+    position: relative;
+    right: -850px;
+    margin-top: 50px;
+
+}
+
+.titre-musee{
+
+    font-family: 'The Nautigal', cursive;
+    font-size: 90px;
+    color: #8D0101;
+}
+
+.film-titre{
+
+    font-family: 'The Nautigal', cursive;
+    font-size: 90px;
+    color: #8D0101;
+
+}
+.film{
+    height: 600px;
+    display: flex;
+    position:relative;
+    margin-top: 90px;
+    margin-bottom: 70px;
+}
+
+.film1 {
+    position: absolute;
+    margin-left: 15vw;
+    height: 500px;
+}
+
+.film2 {
+    position: absolute;
+    margin-left: 35vw;
+    height: 500px;
+}
+
+.film3 {
+    position: absolute;
+    margin-left: 55vw;
+    height: 500px;
+}
+
+.arbre-bas{
+
+    position: relative;
+    left: 30px;
+    height: 500px;
+}
+
+.film-texte{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.resume{
+
+    margin-top: 90px;
+    display: flex;
+    gap: 70px;
+
+}

@@ -12,8 +12,8 @@ main{
     min-height: 150vh;
 }
 nav{
-    /*position: fixed;
-    width: 100%;*/
+    position: fixed;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.089);
     padding-top: 40px;
     padding-bottom: 10px;
@@ -108,7 +108,7 @@ h1{
 }
 .citation h2{
     font-family: 'Island Moments'; 
-    font-size: 32px;
+    font-size: 40px;
     color:#bebebee7;
 }
 
@@ -135,4 +135,132 @@ h1{
 .physique article{
     padding-right: 200px;
 
+}
+.physique article img{
+    width: 735px;
+    height: 445px;
+    padding-right: 160px;
+}
+.kiss{
+    background: url('../Images/creepy.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}
+.kiss article{
+    padding-top: 180px;
+    padding-right: 1100px;
+}
+.kiss img{
+    padding-left: 270px;
+    padding-top: 80px;
+    width: 691px;
+    height: 281px;
+}
+.citationkiss{
+    background-image:-moz-linear-gradient(#060808, #15323F);
+    padding-top: 200px;
+    padding-bottom: 300px;
+    text-align: center;
+}
+.citationkiss h2{
+    font-family: 'Island Moments'; 
+    font-size: 40px;
+    color:#bebebee7;
+}
+.citationkiss img{
+  padding-top: 70px;
+}
+.patronus{
+    background: url('../Images/harrypatronus.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.patronus article{
+    padding-left: 1000px;
+    padding-right: 200px;
+    padding-top: 300px;
+}
+.patronus article img{
+    padding-left: 300px;
+    padding-top: 60px;
+}
+.citationpatronus{
+    background-image:-moz-linear-gradient(#15323F, #2C2725);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+.citationpatronus h2{
+    font-family: 'Island Moments'; 
+    font-size: 40px;
+    color:#bebebee7;
+}
+#nom{ 
+    padding-top: 20px;
+    font-size: 28px;
+}
+
+.citationpatronus img{
+    width: 660px;
+    height: 371px;
+    padding-top: 40px;
+}
+.azkaban{
+    background-image:-moz-linear-gradient(#2C2725, #060808); 
+}
+.azkaban h1{
+    padding-right: 800px;
+    padding-top: 200px;
+}
+.azkaban article{
+    display: flex;
+    padding-bottom: 300px;
+    align-items: center;
+}
+.azkaban article img{
+    width: 672px;
+    height: 355px;
+    padding-left: 40px;
+}
+.Potter{
+    background-image:-moz-linear-gradient( #060808, #01101a); 
+    text-align: center;
+}
+.Potter article{
+    padding-bottom: 200px;
+}
+.Potter div{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.prison{
+    width: 347px;
+    height: 506px;
+}
+.phoenix{
+    width: 347px;
+    height: 506px;
+}
+.relique{
+    width: 347px;
+    height: 506px;
+}
+.mort{
+    width: 347px;
+    height: 506px;
+}
+.none{
+    background-image:-moz-linear-gradient(#01101a, #060808); 
+    min-height: 100vh;
+}
+footer{
+    background-image:-moz-linear-gradient(#060808, #000000 ); 
+    background: url('../Images/mouth.gif');
+    background-size: cover;
+    min-height: 150vh;
+    background-repeat: no-repeat;
+   
 }
