@@ -1,3 +1,50 @@
 @import "styles/julien-perso.css";
 @import "styles/Camila detraqueur.css";
 @import "styles/Camille-perso";
+@import "styles/melissa-perso";
+
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-weight: normal;
+    font-size: 10px
+}
+body{
+    background:url('fond.png'),white;
+    background-repeat: no-repeat, no-repeat;
+    background-blend-mode: difference;
+    background-size: cover;
+    min-height: 120vh;
+}
+img{
+    margin-top: 100px;
+}
+nav{
+    position: fixed;
+}
+ul{
+    display: flex;
+    gap: 100px;
+}
+
+a{
+    text-decoration: none;
+    color:#494545;
+    font-family: 'Abel', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    padding-left: 40px;
+}
+li > a:hover{
+    border-style: solid;
+    border-radius: 30px;
+    border-color: #a9a5a500;
+    background-color:#ff000081;
+    padding-inline: 20px;
+    box-shadow: #ff0000 0px 0px 20px;
+    color: #A9A5A5;
+    transition: 0.4s;
+}
+
+
